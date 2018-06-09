@@ -1,0 +1,66 @@
+﻿subjectNo,melodyFile,ds3,ds2,ds1,dsVector,dsAscDesc,dsComment,melody,melodyFile,em3,em2,em1,emVector,emAscDesc,ascDescFin
+1,mel8P001.aif,do,ti,do,0 1 0,1,,mel8,mel8P001.aif,do,ti,do,101,1,1
+2,mel8P002.aif,do,sol,do,0 1 0,2,,mel8,mel8P002.aif,sol,re,do,21,2,2
+3,mel8P003.aif,la,ti,do,0 1 2,1,audio messed up,mel8,mel8P003.aif,sol,ti,do,12,1,1
+4,mel8P004.aif,la,ti,do,0 1 2,1,,mel8,mel8P004.aif,sol,ti,do,12,1,1
+6,mel8P006.aif,do,ti,do,1 0 1,1,,mel8,mel8P006.aif,do,ti,do,101,1,1
+7,mel8P007.aif,do,ti,do,1 0 1,1,,mel8,mel8P007.aif,la,sol,do,102,1,1
+8,mel8P008.aif,do,ti ,do,1 0 1,1,it's actually do-do-ti-ti-do,mel8,mel8P008.aif,do,ti,do,101,1,1
+9,mel8P009.aif,la,ti,do,0 1 2,1,,mel8,mel8P009.aif,sol,ti,do,12,1,1
+10,mel8P010.aif,ti,re,do,0 2 1,2,,mel8,mel8P010.aif,sol,re,do,21,2,2
+11,mel8P011.aif,do,ti,la?,2 1 0,2,I'm not sure what's happening here but it's descending.,mel8,mel8P011.aif,mi,re,do,210,2,2
+12,mel8P012.aif,ti,re,do,0 2 1,2,,mel8,mel8P012.aif,la,re,do,21,2,2
+13,mel8P013.aif,ti,re ,do,0 2 1,2,audio issues,mel8,mel8P013.aif,mi,re,do,21,2,2
+14,mel8P014.aif,do,do,re,0 0 1,1,incomplete melody,mel8,mel8P014.aif,fa,mi,sol,102,1,1
+15,mel8P015.aif,la,ti,do,0 1 2,1,audio issues,mel8,mel8P015.aif,sol,ti,do,12,1,1
+16,mel8P016.aif,ti,re,do,0 2 1,2,,mel8,mel8P016.aif,sol,re,do,21,2,2
+17,mel8P017.aif,do,ti,la ,2 1 0,2,,mel8,mel8P017.aif,re,do,sol,210,2,2
+18,mel8P018.aif,la,ti,do,0 1 2,1,,mel8,mel8P018.aif,la,ti,do,12,1,1
+19,mel8P019.aif,la ,ti,do?,0 1 2,1,this guys strugglin',mel8,mel8P019.aif,mi,sol,do,12,1,1
+20,mel8P020.aif,ti,re,do,0 2 1,2,,mel8,mel8P020.aif,sol,re,do,21,2,2
+21,mel8P021.aif,fa,re,do,2 1 0,2,,mel8,mel8P021.aif,fa,re,do,210,2,2
+22,mel8P022.aif,ti,re,do,0 2 1,2,,mel8,mel8P022.aif,sol,re,do,21,2,2
+23,mel8P023.aif,la ,ti ,do,0 1 2,1,,mel8,mel8P023.aif,la,ti,do,12,1,1
+24,mel8P024.aif,ti,re,do,0 2 1,2,,mel8,mel8P024.aif,sol,re,do,21,2,2
+25,mel8P025.aif,fa?,ti ,do,0 1 2,1,,mel8,mel8P025.aif,re,ti,do,12,1,1
+26,mel8P026.aif,ti ,re,do,0 2 1,2,,mel8,mel8P026.aif,sol,re,do,21,2,2
+27,mel8P027.aif,do,ti ,do,1 0 1,1,,mel8,mel8P027.aif,do,ti,do,101,1,1
+28,mel8P028.aif,ti,re,do,0 2 1,2,,mel8,mel8P028.aif,sol,re,do,21,2,2
+29,mel8P029.aif,sol ,le,sol,0 1 0,2,not sure about this one,mel8,mel8P029.aif,sol,la,sol,10,2,2
+30,mel8P030.aif,la,la,sol,1 1 0,2,what even is this,mel8,mel8P030.aif,mi,re,do,210,2,2
+31,mel8P031.aif,mi,re ,do,2 1 0,2,,mel8,mel8P031.aif,mi,re,do,210,2,2
+32,mel8P032.aif,la,sol,la,1 0 1,1,,mel8,mel8P032.aif,,,,102,1,1
+33,mel8P033.aif,ti,do,do,0 1 1,1,audio issues,mel8,mel8P033.aif,do,sol,do,101,1,1
+34,mel8P034.aif,ti,ti ,la,1 1 0,2,not sure about this one,mel8,mel8P034.aif,,,,21,2,2
+35,mel8P035.aif,la ,ti,do,0 1 2,1,audio issues,mel8,mel8P035.aif,la,ti,do,12,1,1
+36,mel8P036.aif,la ,ti,do,0 1 2,1,,mel8,mel8P036.aif,la,ti,do,12,1,1
+37,mel8P037.aif,la,ti,do,0 1 2,1,,mel8,mel8P037.aif,sol,ti,do,12,1,1
+38,mel8P038.aif,ti ,re,do,0 2 1,2,audio issues,mel8,mel8P038.aif,do,re,do,10,2,2
+39,mel8P039.aif,la ,ti ,do,0 1 2,1,,mel8,mel8P039.aif,la,ti,do,12,1,1
+40,mel8P040.aif,la ,ti,do,0 1 2,1,,mel8,mel8P040.aif,sol,ti,do,12,1,1
+41,mel8P041.aif,ti,do,re,0 1 2,1,she just kept going past the cadence…,mel8,mel8P041.aif,ti,do,re,12,1,1
+42,mel8P042.aif, ,,,1 2 0,2,"he just gives up, so I have no clue what the solfege is",mel8,mel8P042.aif,,,,120,2,2
+201,mel8P201.aif,do,re,do,0 1 0 ,2,,mel8,mel8P201.aif,do,re,do,10,2,2
+202,mel8P202.aif,sol ,fa ,mi,2 1 0,2,,mel8,mel8P202.aif,mi,re,do,210,2,2
+203,mel8P203.aif,inaudible low,inaudible low,re?,0 0 1,1,,mel8,mel8P203.aif,sol,ti,do,12,1,1
+205,mel8P205.aif,do,re,do,0 1 0,2,,mel8,mel8P205.aif,do,re,do,10,2,2
+207,mel8P207.aif,do,ti ,do,1 0 1,1,,mel8,mel8P207.aif,do,ti,do,101,1,1
+208,mel8P208.aif,la ,sol ,la,1 0 1,1,,mel8,mel8P208.aif,ti,sol,la,201,1,1
+209,mel8P209.aif,re,mi,fa?,0 1 2,1,,mel8,mel8P209.aif,sol,ti,do,12,1,1
+210,mel8P210.aif,la ,ti ,do,0 1 2,1,,mel8,mel8P210.aif,la,ti,do,12,1,1
+211,mel8P211.aif,do,ti ,la??,2 1 0,2,gives up,mel8,mel8P211.aif,ti,la,sol,210,2,2
+212,mel8P212.aif,la,ti,la,0 1 0,2,,mel8,mel8P212.aif,,,,210,2,2
+213,mel8P213.aif,do,ti,do,1 0 1,1,,mel8,mel8P213.aif,do,ti,do,101,1,1
+214,mel8P214.aif,ti,re,do,0 2 1,2,,mel8,mel8P214.aif,do,re,do,10,2,2
+215,mel8P215.aif,la ,la,do,0 0 1,1,,mel8,mel8P215.aif,la,ti,do,12,1,1
+216,mel8P216.aif,sol ,la ,do,0 1 2,1,,mel8,mel8P216.aif,sol,la,do,12,1,1
+217,mel8P217.aif,sol ,ti,do,0 1 2,1,,mel8,mel8P217.aif,sol,ti,do,12,1,1
+218,mel8P218.aif,do ,ti ,do,1 0 1,1,,mel8,mel8P218.aif,do,ti,do,101,1,1
+219,mel8P219.aif,do,ti,do,1 0 1,1,,mel8,mel8P219.aif,do,ti,do,101,1,1
+220,mel8P220.aif,fa,mi,re,2 1 0,2,,mel8,mel8P220.aif,la,sol,mi,210,2,2
+221,mel8P221.aif,do ,do,fa?,0 0 1,1,,mel8,mel8P221.aif,mi,do,fa,102,1,1
+223,mel8P223.aif,re,do,ri,2 1 0,2,,mel8,mel8P223.aif,re,do,sol,210,2,2
+227,mel8P227.aif,la ,ti,do,0 1 2,1,,mel8,mel8P227.aif,la,ti,do,12,1,1
+228,mel8P228.aif, do,re,mi?,0 1 2,1,,mel8,mel8P228.aif,sol,la,do,12,1,1
+229,mel8P229.aif,la ,la,ti,0 0 1,1,not sure about this one,mel8,mel8P229.aif,do,la,ti,201,1,1
+230,mel8P230.aif,do,ti ,do,1 0 1,1,,mel8,mel8P230.aif,la,sol,do,102,1,1

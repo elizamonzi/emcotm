@@ -1,0 +1,67 @@
+subjectNo,melodyFile,em3,em2,em1,emVector,emAscDesc,melody,cd3,cd2,cd1,cdVector,cdAscDesc,cdNotes,kv3,kv2,kv1,kvVector,kvAscDesc,kvComment,check,ascDescFin
+1,mel5P001.aif,do,ti,do,101,1,mel5,,,,101,1,not really in a key,do,ti,do,101,1,,1,1
+2,mel5P002.aif,fa,re,do,210,2,mel5,fa,re,do,210,2,,fa,re,do,210,2,,2,2
+3,mel5P003.aif,do,ti,do,101,1,mel5,,,,101,1,AUDIO FILE CORRUPTED,do,ti,do,101,1,audio file was distorted,1,1
+4,mel5P004.aif,do,ti,do,101,1,mel5,do,ti,do,101,1,,do,ti,do,101,1,,1,1
+6,mel5P006.aif,mi,re,do,210,2,mel5,mi,re,do,210,2,,fa,re,do,210,2,,2,2
+7,mel5P007.aif,do,ti,do,101,1,mel5,do,ti,do,101,1,,do,ti,do,101,1,,1,1
+8,mel5P008.aif,do,ti,do,101,1,mel5,do,ti,do,101,1,,do,ti,do,101,1,,1,1
+9,mel5P009.aif,do,re,do,10,2,mel5,do,re,do,10,2,,do,re,do,0 1 0,2,,2,2
+10,mel5P010.aif,re,sol,do,201,1,mel5,re,la,do,201,1,,re,sol,do,102,1,,1,1
+11,mel5P011.aif,do,ti,do,101,1,mel5,,,,101,1,not really in a key,do,ti,do,101,1,,1,1
+12,mel5P012.aif,mi,re,do,210,2,mel5,mi,re,do,210,2,,mi,re,do,210,2,,2,2
+13,mel5P013.aif,mi,re,do,210,2,mel5,mi,re,do,210,2,not really in a key for most of this,re,do,ti,210,2,,2,2
+14,mel5P014.aif,re,mi,do,120,2,mel5,,,,120,2,not really in a key,re,mi,do,120,2,,2,2
+15,mel5P015.aif,do,ti,do,101,1,mel5,do,ti,do,101,1,,do,ti,do,101,1,,1,1
+16,mel5P016.aif,do,ti,mi,102,1,mel5,,,,,1,not really in a key,do,ti,mi,102,1,,1,1
+17,mel5P017.aif,sol,mi,do,210,2,mel5,,,,201,1,not sure about this one,re,ti,do,201,1,,2,2
+18,mel5P018.aif,mi,re,do,210,2,mel5,mi,re,do,210,2,,mi,re,do,210,2,,2,2
+19,mel5P019.aif,mi,re,do,210,2,mel5,mi,re,do,210,2,,mi,re,do,210,2,,2,2
+20,mel5P020.aif,do,re,do,10,2,mel5,do,re,do,10,2,,do,re,do,0 1 0,2,,2,2
+21,mel5P021.aif,la,re,do,210,2,mel5,,,,,2,,re,ti,do,201,1,,2,2
+22,mel5P022.aif,re,ti,do,201,1,mel5,re,ti,do,201,1,,re,ti,do,201,1,,1,1
+23,mel5P023.aif,mi,re,do,210,2,mel5,mi,re,do,210,2,,mi,re,do,210,2,,2,2
+24,mel5P024.aif,do,re ,do,10,2,mel5,do,re,do,10,2,,do,re,do,0 1 0,2,,2,2
+25,mel5P025.aif,do,ti,do,101,1,mel5,do,ti,do,101,1,,do,ti,do,101,1,,1,1
+26,mel5P026.aif,do,re,do,10,2,mel5,do,re,do,10,2,,do,re,do,0 1 0,2,,2,2
+27,mel5P027.aif,do,ti,do,101,1,mel5,do,ti,do,101,1,,do,ti,do,101,1,,1,1
+28,mel5P028.aif,fa,re,do,210,2,mel5,fa,re,do,210,2,,fa,re,do,210,2,,2,2
+29,mel5P029.aif,do,ti,do,101,1,mel5,do,ti,do,101,1,,do,ti,do,101,1,,1,1
+30,mel5P030.aif,sol,fa,sol,101,1,mel5,,,,101,1,not really in a key,sol,fa,sol,101,1,,1,1
+31,mel5P031.aif,mi,re,do,210,2,mel5,mi,re,do,210,2,,mi,re,do,210,2,,2,2
+32,mel5P032.aif,mi,re,do,210,2,mel5,,,,210,2,not really in a key,mi,re,do,210,2,,2,2
+33,mel5P033.aif,do,ti,do,101,1,mel5,fa,mi,fa,101,1,,fa,mi,fa,101,1,,1,1
+34,mel5P034.aif,la,sol,do,102,1,mel5,la,sol,do,102,1,,la,sol,do,102,1,,1,1
+35,mel5P035.aif,do,re,do,10,2,mel5,sol,la,sol,10,2,,sol,la,sol,0 1 0,2,audio file was distorted,2,2
+36,mel5P036.aif,re,mi,do,120,2,mel5,re,mi,do,120,2,,re,mi,do,120,2,,2,2
+37,mel5P037.aif,do,ti,do,101,1,mel5,do,ti,do,101,1,,do,ti,do,101,1,,1,1
+38,mel5P038.aif,mi,re,do,210,2,mel5,mi,re,do,210,2,,mi,re,do,210,2,audio file was distorted,2,2
+39,mel5P039.aif,fa,re,do,210,2,mel5,fa,re,do,210,2,,fa,re,do,210,2,,2,2
+40,mel5P040.aif,mi,ti,do,201,1,mel5,mi,ti,do,201,1,solfege is questionable given key wasn't completely clear,mi,ti,do,201,1,,1,1
+41,mel5P041.aif,do,ti,do,101,1,mel5,do,ti,do,101,1,,do,ti,do,101,1,,1,1
+42,mel5P042.aif,do,re,do,10,2,mel5,do,re,do,10,2,,do,re,do,0 1 0,2,,2,2
+201,mel5P201.aif,,,,210,2,mel5,,,,210,2,not really in a key,mi,re,do,210,2,,2,2
+202,mel5P202.aif,,,,210,2,mel5,,,,210,2,not sure about this one,te,la,le,210,2,key signature?,2,2
+203,mel5P203.aif,,,,101,1,mel5,,,,101,1,not really in a key,do,ti,do,101,1,,1,1
+204,mel5P204.aif,,,,10,2,mel5,,,,,2,not really in a key,do,ti,do,101,1,"almost monotone, but the accents make me think it was supposed to be dtd",2,2
+205,mel5P205.aif,re,ti,do,201,1,mel5,re,ti,do,201,1,,re,ti,do,201,1,,1,1
+207,mel5P207.aif,,,,210,2,mel5,,,,,2,not really in a key,do,ti,la,210,2,,2,2
+208,mel5P208.aif,,,,210,2,mel5,,,,210,2,not really in a key,me,re,do,210,2,,2,2
+209,mel5P209.aif,,,,210,2,mel5,,,,,2,not really in a key,re,do,ti,210,2,,2,2
+210,mel5P210.aif,do,la,sol,210,2,mel5,,,,201,1,gave up at the end,re,ti,do,201,1,,2,2
+211,mel5P211.aif,,,,10,2,mel5,,,,,2,not really in a key,do,re,do,0 1 0,2,,2,2
+212,mel5P212.aif,,,,21,2,mel5,,,,21,2,not really in a key,do,re,do,0 1 0,2,,2,2
+213,mel5P213.aif,,,,10,2,mel5,,,,10,2,not really in a key,do,re,do,0 1 0,2,,2,2
+214,mel5P214.aif,ti,la,do,102,1,mel5,,,,102,1,not really in a key,ti,la,do,102,1,,1,1
+215,mel5P215.aif,do,ti,do,101,1,mel5,do,ti,do,101,1,,do,ti,do,101,1,,1,1
+216,mel5P216.aif,do,ti,do,101,1,mel5,do,ti,do,101,1,,do,ti,do,101,1,,1,1
+217,mel5P217.aif,do,ti,do,101,1,mel5,do,ti,do,101,1,solfege is questionable,do,ti,do,101,1,,1,1
+218,mel5P218.aif,,,,10,2,mel5,,,,10,2,not really in a key,ti,do,ti,0 1 0,2,,2,2
+219,mel5P219.aif,do,ti,do,101,1,mel5,,,,101,1,not really in a key,do,ti,do,101,1,,1,1
+220,mel5P220.aif,do,sol,do,210,2,mel5,ti,sol,do,210,2,Aaron Copland,ti,sol,do,210,2,,2,2
+221,mel5P221.aif,,,,201,1,mel5,,,,101,1,not really in a key,re,ti,do,201,1,,1,1
+223,mel5P223.aif,,,,210,2,mel5,,,,,2,not really in a key,re,do,sol,210,2,,2,2
+227,mel5P227.aif,do,re,do,10,2,mel5,do,re,do,10,2,,do,re,do,0 1 0,2,,2,2
+228,mel5P228.aif,,,,201,1,mel5,,,,201,1,not really in a key,re,ti,do,201,1,,1,1
+229,mel5P229.aif,do,ti,do,101,1,mel5,do,ti,do,101,1,solfege is questionable,do,ti,do,101,1,,1,1
+230,mel5P230.aif,re,mi,do,120,2,mel5,re,mi,do,120,2,,re,mi,do,120,2,,2,2

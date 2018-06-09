@@ -1,0 +1,65 @@
+subjectNo,melodyFile,db3,db2,db1,dbVector,dbAscDesc,melody,kv3,kv2,kv1,kvVector,kvAscDesc,ds3,ds2,ds1,dsVector,dsAscDesc,dsComment,check,ascDescFin
+1,mel1P001.aif,mi,re,do,210,2,mel1,fa,re,do,210,2,fa,re,do,2 1 0,2,,2,2
+2,mel1P002.aif,do,ti,do,101,1,mel1,do,ti,do,101,1,do,ti,do,1 0 1,1,,1,1
+3,mel1P003.aif,re,ti,do,201,1,mel1,do,re,do,0 1 0,2,do,re,do,0 1 0,2,,2,2
+4,mel1P004.aif,mi,re,do,210,2,mel1,mi,re,do,210,2,mi,re,do,2 1 0,2,,2,2
+6,mel1P006.aif,mi,re,do,210,2,mel1,re,ti,do,201,1,re,ti,do,2 0 1,1,,1,1
+7,mel1P007.aif,do,re,do,10,2,mel1,do,re,do,0 1 0,2,do,re,do,0 1 0,2,,2,2
+8,mel1P008.aif,mi,re,do,210,2,mel1,mi,re,do,210,2,mi,re,do,2 1 0,2,,2,2
+9,mel1P009.aif,do,re,do,10,2,mel1,la,mi,do,210,2,sol?,mi,do,2 1 0,2,,2,2
+10,mel1P010.aif,do,ti,do,101,1,mel1,re,ti,do,201,1,re,ti,do,2 0 1,1,,1,1
+11,mel1P011.aif,mi,re,do,210,2,mel1,mi,re,do,210,2,mi,re,do,2 1 0,2,,2,2
+12,mel1P012.aif,do,ti,do,101,1,mel1,re,ti,do,201,1,re,ti,do,2 0 1,1,,1,1
+13,mel1P013.aif,do,ti,do,101,1,mel1,re,sol,do,201,1,re,sol,do,2 0 1,1,though to hear,1,1
+14,mel1P014.aif,re,do,ti,210,2,mel1,mi,re,do,210,2,mi,re,do,2 1 0,2,,2,2
+15,mel1P015.aif,do,re,do,10,2,mel1,do,re,do,0 1 0,2,do,re,do,0 1 0,2,,2,2
+16,mel1P016.aif,do,sol,do,101,1,mel1,mi,sol,do,201,1,mi,sol,do,2 0 1,1,,1,1
+17,mel1P017.aif,do,re,do,10,2,mel1,do,re,do,0 1 0,2,do,re,do,0 1 0,2,,2,2
+18,mel1P018.aif,do,ti,do,101,1,mel1,do,ti,do,101,1,do,ti,do,1 0 1,1,,1,1
+19,mel1P019.aif,mi,re,do,210,2,mel1,mi,re,do,210,2,mi,re,do,2 1 0,2,,2,2
+20,mel1P020.aif,do,re,do,10,2,mel1,do,re,do,0 1 0,2,do,re,do,0 1 0,2,,2,2
+21,mel1P021.aif,mi,re,do,210,2,mel1,mi,re,do,210,2,mi,re,do,2 1 0,2,,2,2
+23,mel1P023.aif,mi,re,do,210,2,mel1,do,re,do,0 1 0,2,do,re,do,0 1 0,2,,2,2
+24,mel1P024.aif,do,ti,do,101,1,mel1,do,ti,do,101,1,do,ti,do,1 0 1,1,,1,1
+25,mel1P025.aif,do,re,do,10,2,mel1,do,re,do,0 1 0,2,do,re,do,0 1 0,2,,2,2
+26,mel1P026.aif,ti,re,do,21,2,mel1,ti,re,do,0 2 1,2,ti,re,do,0 2 1,2,,2,2
+27,mel1P027.aif,do,ti,do,101,1,mel1,do,ti,do,101,1,do,ti,do,1 0 1,1,,1,1
+28,mel1P028.aif,do,ti,do,101,1,mel1,do,ti,do,101,1,do,ti,do,1 0 1,1,,1,1
+30,mel1P030.aif,do,ti,do,101,1,mel1,do,ti,do,101,1,do,ti,do,1 0 1,1,,1,1
+31,mel1P031.aif,do,ti,do,101,1,mel1,do,mi,do,0 1 0,2,do,mi,do,0 1 0,2,this can't be right,1,1
+32,mel1P032.aif,do,re,do,10,2,mel1,do,re,do,0 1 0,2,do,re,do,0 1 0,2,,2,2
+33,mel1P033.aif,ti,re,do,21,2,mel1,ti,re,do,0 2 1,2,ti,re,do,0 2 1,2,,2,2
+34,mel1P034.aif,do,ti,do,101,1,mel1,do,ti,do,101,1,do,ti,do,1 0 1,1,,1,1
+35,mel1P035.aif,do,re,do,10,2,mel1,do,re,do,0 1 0,2,do,re,do,0 1 0,2,,2,2
+36,mel1P036.aif,do,re,do,10,2,mel1,mi,re,do,210,2,mi,re,do,2 1 0,2,,2,2
+37,mel1P037.aif,do,re,do,10,2,mel1,do,re,do,0 1 0,2,do,re,do,0 1 0,2,,2,2
+38,mel1P038.aif,do,ti,do,101,1,mel1,do,ti,do,101,1,do,ti,do,1 0 1,1,,1,1
+39,mel1P039.aif,do,re,do,10,2,mel1,do,re,do,0 1 0,2,do,re,do,0 1 0,2,,2,2
+40,mel1P040.aif,do,ti,do,101,1,mel1,do,ti,do,101,1,do,ti,do,1 0 1,1,,1,1
+41,mel1P041.aif,la,ti,do,12,1,mel1,la,ti,do,0 1 2,1,la,ti,do,0 1 2,1,,1,1
+42,mel1P042.aif,do,ti,do,101,1,mel1,do,ti,do,101,1,do,ti,do,1 0 1,1,,1,1
+201,mel1P201.aif,mi,re,do,210,2,mel1,fa,re,do,210,2,mi,re,do,2 1 0,2,,2,2
+202,mel1P202.aif,do,ti,do,101,1,mel1,do,ti,do,101,1,do,ti,do,1 0 1,1,,1,1
+203,mel1P203.aif,do,ti,do,101,1,mel1,do,ti,do,101,1,do,ti,do,1 0 1,1,,1,1
+204,mel1P204.aif,do,ti,la,210,2,mel1,mi,re,do,210,2,mi,re,do,2 1 0,2,,2,2
+205,mel1P205.aif,do,ti,do,101,1,mel1,do,ti,do,101,1,do,ti,do,1 0 1,1,,1,1
+207,mel1P207.aif,ti,re,do,21,2,mel1,mi,re,ti,210,2,mi,re,ti,2 1 0,2,,2,2
+208,mel1P208.aif,do,la,do,101,1,mel1,ti,la,do,102,1,ti,la,do,1 0 2,1,,1,1
+209,mel1P209.aif,re,ti,do,201,1,mel1,re,ti,do,201,1,re,ti,do,2 0 1,1,,1,1
+210,mel1P210.aif,do,re,do,10,2,mel1,mi,re,do,210,2,mi,re,do,2 1 0,2,,2,2
+211,mel1P211.aif,do,re,do,10,2,mel1,do,re,do,0 1 0,2,do,re,do,0 1 0,2,,2,2
+212,mel1P212.aif,mi,re,do,210,2,mel1,mi,re,do,210,2,mi,re,do,2 1 0,2,,2,2
+213,mel1P213.aif,mi,re,do,210,2,mel1,mi,re,do,210,2,mi,re,do,2 1 0,2,,2,2
+214,mel1P214.aif,do,ti,do,101,1,mel1,do,ti,do,101,1,do,ti,do,1 0 1,1,,1,1
+215,mel1P215.aif,do,ti,do,101,1,mel1,do,ti,do,101,1,do,ti,do,1 0 1,1,,1,1
+216,mel1P216.aif,re,do,ti,210,2,mel1,mi,do,ti,210,2,mi,do,ti,2 1 0,2,this person's struggling,2,2
+217,mel1P217.aif,do,ti,do,101,1,mel1,do,te,do,101,1,do,te,do,1 0 1,1,,1,1
+218,mel1P218.aif,do,ti,do,101,1,mel1,do,ti,do,101,1,do,ti,do,1 0 1,1,,1,1
+219,mel1P219.aif,,,,NA,,mel1,la,ti,do,0 1 2,1,la,ti,do,0 1 2,1,,1,1
+220,mel1P220.aif,ti,re,do,21,2,mel1,mi,sol,do,120,2,mi,sol,do,1 2 0,2,,2,2
+221,mel1P221.aif,re,do,re,101,1,mel1,mi,do,re,201,1,mi,do,re,2 0 1,1,,1,1
+223,mel1P223.aif,do,re,do,10,2,mel1,sol,la,sol,0 1 0,2,sol,la,sol,0 1 0,2,,2,2
+227,mel1P227.aif,do,re,do,10,2,mel1,do,re,do,0 1 0,2,do,re,do,0 1 0,2,,2,2
+228,mel1P228.aif,re,do,ti,210,2,mel1,sol,mi,re,210,2,sol,mi,re,2 1 0,2,,2,2
+229,mel1P229.aif,do,ti,do,101,1,mel1,re,ti,do,201,1,re,ti,do,2 0 1,1,,1,1
+230,mel1P230.aif,do,la,do,101,1,mel1,la,sol,do,102,1,la,sol,do, 1 0 2,1,,1,1

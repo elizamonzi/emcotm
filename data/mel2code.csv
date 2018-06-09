@@ -1,0 +1,63 @@
+subjectNo,melodyFile,ds3,ds2,ds1,dsVector,dsAscDesc,dsComment,db3,db2,db1,dbVector,dbAscDesc,melody,ascDescFin
+1,mel2P001.aif,do,re,do, 0 1 0,2,,do,re,do,10,2,mel2,2
+2,mel2P002.aif,do,re,do, 0 1 0,2,,do,re,do,10,2,mel2,2
+3,mel2P003.aif,,,do,,,I can't hear it. The audio is messed up.,do,ti,do,101,1,mel2,1
+4,mel2P004.aif,do,ti,do,1 0 1,1,,do,ti,do,101,1,mel2,1
+6,mel2P006.aif,do,ti,do,1 0 1,1,,do,ti,do,101,1,mel2,1
+7,mel2P007.aif,do,ti,do,1 0 1,1,,do,ti,do,101,1,mel2,1
+9,mel2P009.aif,do,ti,do,1 0 1,1,,do,ti,do,101,1,mel2,1
+10,mel2P010.aif,do,re,do,0 1 0 ,2,,do,re,do,10,2,mel2,2
+11,mel2P011.aif,mi,re,do,2 1 0,2,,mi,re,do,210,2,mel2,2
+12,mel2P012.aif,do,ti,do,1 0 1,1,,do,ti,do,101,1,mel2,1
+13,mel2P013.aif,do,re,do,0 1 0,2,,do,re,do,10,2,mel2,2
+14,mel2P014.aif,mi,re,do,2 1 0,2,,mi,re,do,210,2,mel2,2
+15,mel2P015.aif,do,re,do,0 1 0,2,,do,re,do,10,2,mel2,2
+16,mel2P016.aif,do,re,do,0 1 0,2,,do,re,do,10,2,mel2,2
+17,mel2P017.aif,do,re,do,0 1 0,2,,do,re,do,10,2,mel2,2
+18,mel2P018.aif,do,re,do,0 1 0,2,,do,re,do,10,2,mel2,2
+19,mel2P019.aif,mi,re,do,2 1 0,2,,mi,re,do,210,2,mel2,2
+20,mel2P020.aif,do,ti,do,1 0 1,1,,do,ti,do,101,1,mel2,1
+21,mel2P021.aif,do,re,do,0 1 0,2,,do,re,do,10,2,mel2,2
+22,mel2P022.aif,sol,re,do,0 2 1,2,,ti,re,do,21,2,mel2,2
+23,mel2P023.aif,do,re,do,0 1 0,2,,do,re,do,10,2,mel2,2
+24,mel2P024.aif,do,ti,do,1 0 1,1,,do,ti,do,101,1,mel2,1
+25,mel2P025.aif,do,re,do,0 1 0,2,,do,re,do,10,2,mel2,2
+26,mel2P026.aif,ti,re,do,0 2 1,2,,ti,re,do,21,2,mel2,2
+27,mel2P027.aif,do,re,do,0 1 0,2,,do,re,do,10,2,mel2,2
+28,mel2P028.aif,do,ti,do,1 0 1,1,,do,ti,do,101,1,mel2,1
+29,mel2P029.aif,mi,re,do,2 1 0,2,Audio messed up. I think this is OK?,mi,re,do,210,2,mel2,2
+30,mel2P030.aif,mi,re,do,2 1 0,2,,mi,re,do,210,2,mel2,2
+31,mel2P031.aif,do,sol,do,0 1 0,2,,do,re,do,10,2,mel2,2
+32,mel2P032.aif,do,ti,do,1 0 1,1,,do,ti,do,101,1,mel2,1
+33,mel2P033.aif,do,re,do,0 1 0,2,,do,re,do,10,2,mel2,2
+34,mel2P034.aif,do,re,do,0 1 0,2,this person seems asleep,do,re,do,10,2,mel2,2
+35,mel2P035.aif,do,re,do,0 1 0,2,Audio messed up. I think this is OK?,do,re,do,10,2,mel2,2
+36,mel2P036.aif,do,re,do,0 1 0,2,,do,re,do,10,2,mel2,2
+37,mel2P037.aif,do,ti,do,1 0 1,1,,do,ti,do,101,1,mel2,1
+38,mel2P038.aif,do,ti,do,1 0 1,1,,do,ti,do,101,1,mel2,1
+39,mel2P039.aif,do,la,do,1 0 1,1,,do,la,do,101,1,mel2,1
+40,mel2P040.aif,do,ti,do,1 0 1,1,,do,ti,do,101,1,mel2,1
+41,mel2P041.aif,do,re,do,0 1 0 ,2,,do,re,do,10,2,mel2,2
+42,mel2P042.aif,do,ti,do,1 0 1,1,,do,ti,do,101,1,mel2,1
+201,mel2P201.aif,do,ti,la,2 1 0,2,,do,ti,la,210,2,mel2,2
+202,mel2P202.aif,do,ti,do,1 0 1,1,,do,ti,do,101,1,mel2,1
+204,mel2P204.aif,do,ti,la,2 1 0,2,,do,ti,la,210,2,mel2,2
+205,mel2P205.aif,do,re,do,0 1 0,2,,do,re,do,10,2,mel2,2
+207,mel2P207.aif,mi,re,do,2 1 0,2,,mi,re,do,210,2,mel2,2
+208,mel2P208.aif,re,mi,fa,0 1 2,1,,re,mi,fa,12,1,mel2,1
+209,mel2P209.aif,do,re,do,0 1 0,2,,do,re,do,10,2,mel2,2
+210,mel2P210.aif,do,ti,la,2 1 0,2,,do,ti,la,210,2,mel2,2
+211,mel2P211.aif,do,re,do,0 1 0,2,,do,re,do,10,2,mel2,2
+212,mel2P212.aif,do,re,do,0 1 0,2,,do,re,do,10,2,mel2,2
+213,mel2P213.aif,do,re,do,0 1 0,2,,do,re,do,10,2,mel2,2
+214,mel2P214.aif,do,ti,do,1 0 1,1,,do,ti,do,101,1,mel2,1
+215,mel2P215.aif,do,ti,do,1 0 1,1,,do,ti,do,101,1,mel2,1
+216,mel2P216.aif,do,ti,do,1 0 1,1,,do,ti,do,101,1,mel2,1
+217,mel2P217.aif,do,re,do,0 1 0,2,,do,re,do,10,2,mel2,2
+218,mel2P218.aif,do,ti,do,1 0 1,1,,do,ti,do,101,1,mel2,1
+221,mel2P221.aif,mi,re,sol,2 1 0,2,,mi,re,sol,210,2,mel2,2
+223,mel2P223.aif,do,re,do,0 1 0,2,,do,re,do,10,2,mel2,2
+227,mel2P227.aif,mi,re,do,2 1 0,2,,mi,re,do,210,2,mel2,2
+228,mel2P228.aif,do,ti,do,1 0 1,1,,do,ti,do,101,1,mel2,1
+229,mel2P229.aif,mi,re,do,2 1 0,2,,mi,re,do,210,2,mel2,2
+230,mel2P230.aif,do,re,do,0 1 0,2,,do,re,do,10,2,mel2,2
