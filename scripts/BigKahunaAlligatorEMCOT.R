@@ -54,6 +54,16 @@ rotationData <- fread("RotationSpanData.csv", colClasses = "character")
 symmetryData <- fread("SymmetrySpanData.csv", colClasses = "character")
 goldExtraData <- fread("Gold_MSI_combined_data_with_Indvidual_Responses.csv", colClasses = "character")
 
+#this is me trying to come up with a way to read all the data into the master
+#mel1Data <- fread("mel1all.csv", select = c("") colClasses = "character")
+#mel2Data <- fread("mel2all.csv", colClasses = "character")
+#mel3Data <- fread("mel3all.csv", colClasses = "character")
+#mel4Data <- fread("mel4all.csv", colClasses = "character")
+#mel5Data <- fread("mel5all.csv", colClasses = "character")
+#mel6Data <- fread("mel6all.csv", colClasses = "character")
+#mel7Data <- fread("mel7all.csv", colClasses = "character")
+#mel8Data <- fread("mel8all.csv", colClasses = "character")
+
 rotationData[, V1 := NULL]
 symmetryData[, V1 := NULL]
 goldExtraData[, V1 := NULL]

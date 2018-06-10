@@ -1,6 +1,7 @@
 #-----------------------------------------------------
 #emcotm analysis: asc/desc by condition/melody
 #-----------------------------------------------------
+#set wd to emcotm/data
 library(data.table)
 library(psych)
 library(stringr)
@@ -9,6 +10,9 @@ library(apaTables)
 library(plyr)
 library(dplyr)
 #-----------------------------------------------------
+#this whole section can be SKIPPED now, it was only needed for me to settle rater disputes
+#so skip to line 123
+
 #read code csvs for interrater agreement so I can review and settle disputes
 
 #----mel1----
@@ -116,6 +120,17 @@ View(mel8code)
 mel8code <- fread("mel8code.csv", header = TRUE, colClasses = "character")
 
 #--------------------
+#START HERE
+
+mel1code <- fread("mel1code.csv", header = TRUE, colClasses = "character")
+mel2code <- fread("mel2code.csv", header = TRUE, colClasses = "character")
+mel3code <- fread("mel3code.csv", header = TRUE, colClasses = "character")
+mel4code <- fread("mel4code.csv", header = TRUE, colClasses = "character")
+mel5code <- fread("mel5code.csv", header = TRUE, colClasses = "character")
+mel6code <- fread("mel6code.csv", header = TRUE, colClasses = "character")
+mel7code <- fread("mel7code.csv", header = TRUE, colClasses = "character")
+mel8code <- fread("mel8code.csv", header = TRUE, colClasses = "character")
+
 #add grades/conditions csv to code
 
 conditiongrades <- fread("EMCOT grades - Sheet1.csv", colClasses = "character")
@@ -128,6 +143,16 @@ mel5all <- mel5code[conditiongrades, on="subjectNo"]
 mel6all <- mel6code[conditiongrades, on="subjectNo"]
 mel7all <- mel7code[conditiongrades, on="subjectNo"]
 mel8all <- mel8code[conditiongrades, on="subjectNo"]
+
+#trying to do a thing, this may not be necessary but shouldn't mess up anything
+write.csv(mel1all, "../cogdata/aggregated_data/mel1all.csv")
+write.csv(mel2all, "../cogdata/aggregated_data/mel2all.csv")
+write.csv(mel3all, "../cogdata/aggregated_data/mel3all.csv")
+write.csv(mel4all, "../cogdata/aggregated_data/mel4all.csv")
+write.csv(mel5all, "../cogdata/aggregated_data/mel5all.csv")
+write.csv(mel6all, "../cogdata/aggregated_data/mel6all.csv")
+write.csv(mel7all, "../cogdata/aggregated_data/mel7all.csv")
+write.csv(mel8all, "../cogdata/aggregated_data/mel8all.csv")
 
 #-----------------------------------------------------
 #count ascending vs. descending by condition
