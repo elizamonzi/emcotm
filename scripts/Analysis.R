@@ -210,9 +210,9 @@ Perc <- structure(list(X = c(31, 69), Y = c(60, 40)),
                     .Names = c("Descending Dominant Presentation", "Ascending Dominant Presentation"), 
                     class = "data.frame", row.names = c(NA, -2L))
 Perc
-colors <- c("blue", "red")
+colors <- c("dark grey", "light grey")
 
-barplot(as.matrix(Perc), main="Percentage of Ascending and Descending Cadences", ylab="Percentage", 
+b = barplot(as.matrix(Perc), main="Percentage of Ascending and Descending Cadences", ylab="Percentage", 
         cex.lab = 1, cex.main = 1.4, beside=TRUE, col=colors)
 
 legend("topright", c("Ascending Cadence", "Descending Cadence"), cex=1, bty="n", fill=colors)
